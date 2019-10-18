@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KRT Bus Schedules</string>
+
+    <string-array name="routes_arrays">
+        <item>1SA St Albans</item>
+        <item>1WC West Charleston</item>
+        <item>2CC Cabin Creek</item>
+        <item>2KC Kanawha City</item>
+        <item>3N Nitro</item>
+        <item>3I Institute/WVSU</item>
+        <item>5 Tyler Mtn/Cross Lanes</item>
+        <item>6 Elkview</item>
+        <item>7 Campbells Creek</item>
+        <item>8 Sissonville</item>
+        <item>10 Northgate/Hillcrest Drive</item>
+        <item>11 Wertz Avenue</item>
+        <item>13 Beech Avenue</item>
+        <item>14 City Park</item>
+        <item>15 South Hills</item>
+        <item>16 South Park</item>
+        <item>17 South Side</item>
+        <item>18 Fort Hill/Montrose</item>
+        <item>19 Charleston Loop/Trolley</item>
+        <item>20 Virginia St/Capitol Complex</item>
+        <item>21 Southridge/Trace Fork/Dudley Farms</item>
+        <item>22M Montgomery</item>
+        <item>22Q Quincy Mall</item>
+        <item>23 Clendenin</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_route_select">RouteSelectActivity</string>
+    <string name="title_activity_day_select">DaySelectActivity</string>
+    <string name="title_activity_direction_select">DirectionSelectActivity</string>
+    <string name="title_activity_timepoint_select">TimepointSelectActivity</string>
+
+</resources>
